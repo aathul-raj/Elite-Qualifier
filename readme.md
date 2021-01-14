@@ -17,6 +17,7 @@ Meant for the C2c Elite Qualifier.
 ## Install
 
 Download main.py.
+Required Module: Spellchecker
 
 ## Usage
 
