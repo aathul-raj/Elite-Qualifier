@@ -16,7 +16,7 @@ Meant for the C2c Elite Qualifier.
 
 ## Install
 
-Run the repl.
+Download main.py.
 
 ## Usage
 
