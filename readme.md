@@ -12,10 +12,11 @@ A simple autocorrect
 
 ## Background
 
-Meant for the C2c Elite Qualifier.
+Meant for the C2C Elite Qualifier.
 
 ## Install
 
+Python 3
 Download main.py.
 Required Module: Spellchecker
 
@@ -24,3 +25,10 @@ Required Module: Spellchecker
 Enter the text to autocorrect then hit enter.
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project:
+
+1. Run the project
+2. Check the results
