@@ -25,3 +25,10 @@ Required Module: Spellchecker
 Enter the text to autocorrect then hit enter.
 
 ### Any optional sections
+
+## Test Plan
+
+To test the project:
+
+1. Run the project
+2. Check the results
